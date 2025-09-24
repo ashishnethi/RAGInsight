@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-huggingface
+langchain-openai
+langgraph
+qdrant-client
+langchain-community
+streamlit
+tenacity
+tavily-python
+tiktoken
+pydantic
+numpy
+PyYAML
+nest-asyncio
