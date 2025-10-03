@@ -79,3 +79,7 @@ Business Intelligence: Quickly extract insights from long reports or documents.
 Education: Study documents efficiently and get concise answers.
 
 Legal / Compliance: Search and retrieve key information from legal or policy documents.
+<img width="1915" height="847" alt="image" src="https://github.com/user-attachments/assets/2bbafe9d-9d38-4e82-a1af-9a92dc35536e" />
+
+<img width="1522" height="652" alt="image" src="https://github.com/user-attachments/assets/2a0196bb-2522-424b-8246-52111b8f0abf" />
+
